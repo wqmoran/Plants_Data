@@ -18,7 +18,7 @@ Plants_Data 是从我开发的个人项目中衍生出来的开源数据集，�
 你可以通过 Git 克隆或下载本项目，使用 JSON 文件中的数据进行植物科的查询或其他相关工作。
 
 ``` bash
-git clone https://github.com/your-github-account/Plants_Data.git
+git clone https://github.com/wqmoran/Plants_Data.git
 ```
 
 ## 贡献指南
@@ -29,4 +29,4 @@ git clone https://github.com/your-github-account/Plants_Data.git
 - 在 GitHub 项目中创建一个 Issue，请尽可能详细地描述问题。
 
 ## 许可证
-本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)。
+本项目采用 [MIT 许可证](./LICENSE)。
